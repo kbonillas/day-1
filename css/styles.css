@@ -22,3 +22,12 @@ h1 {
 .fav-color{
     color: #1F0966;
 }
+
+.list-item{
+    font-size: 24px;
+    padding: 10px;
+    text-align: center;
+    border: 1px dotted #1F0966;
+    margin: 10px;
+    background: yellow;
+}
