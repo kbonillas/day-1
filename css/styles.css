@@ -18,3 +18,7 @@ h1 {
     /* border: 1px solid hsl(240, 100%, 50%); */
     border: 1px solid hsla(240, 100%, 50%, 50%);
 }
+
+.fav-color{
+    color: #1F0966;
+}
